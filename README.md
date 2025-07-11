@@ -19,7 +19,7 @@ A powerful and minimal Discord bot built with [discord.js](https://discord.js.or
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/server-setup-bot.git
+git clone https://github.com/milohhh/server-setup-bot.git
 cd server-setup-bot
 ```
 
