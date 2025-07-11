@@ -93,4 +93,4 @@ MIT — Free to use, share, and modify. Star the repo if you find it useful ⭐
 
 ## ✨ Author
 
-Made by [yourname](https://github.com/yourusername)
+Made by [Milo](https://github.com/milohhh)
